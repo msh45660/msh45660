@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmsh45660&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-</div>
+
 
 ### 배움을 먹는 개발자
 - 배운 것은 잊지않고 사용하는 신입 개발자 입니다.
@@ -21,6 +21,7 @@
 - MySQL
    1) DB에 저장된 데이터를 구문을 통해 취사선택하여 표시 혹은 변경하여 출력이 가능하다
 
+   </div>
 <div align=center>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/) 
