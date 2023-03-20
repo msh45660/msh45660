@@ -4,9 +4,8 @@
 
 </div>
 
-### Machine Learning Engineer, Engineering Manager
-- Machine Learing Engineer, Engineering Manager
-- I organize a group of developers who write blog posts - 글쓰는 개발자 모임, [글또](https://bit.ly/geultto)
+### 배움을 먹는 개발자
+- 배운 것은 잊지않고 사용하는 신입 개발자 입니다.
 
 ### Interest
 - MLOps(Machine Learing Operation - Especially, ML/DL Model Production)
