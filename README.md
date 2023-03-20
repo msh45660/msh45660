@@ -1,7 +1,9 @@
 <div align=center>
 
-### 배움을 먹는 개발자
+ 배움을 먹는 개발자
 - 배운 것은 잊지않고 사용하는 신입 개발자 입니다.
+ 
+ E-mail : msh45660@gmail.com
 
  </div>
  
