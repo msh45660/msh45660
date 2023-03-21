@@ -1,5 +1,11 @@
 <div align=center>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmsh45660&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+   
+</div>
+
+<div align=center>
+
  배움을 먹는 개발자
  </div>
  <div align=center>
@@ -24,11 +30,7 @@
   - DB를 제약조건을 걸어 생성이 가능합니
 
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msh45660&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msh45660&show_icons=true&theme=github_dark)
   
   
-<div align=center>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmsh45660&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-   
-</div>
