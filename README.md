@@ -9,7 +9,7 @@
  배움을 먹는 개발자
  </div>
  <div align=center>
- 배운 것은 잊지않고 써먹는 신입 개발자 입니다.
+ 배운 것을 소화시켜 제것으로 활용하는 신입 개발자 입니다.
  
  E-mail : msh45660@gmail.com
 
@@ -30,7 +30,7 @@
   - DB를 제약조건을 걸어 생성이 가능합니
 
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msh45660&show_icons=true&theme=github_dark)
+
   
   
 
