@@ -12,7 +12,7 @@
  배운 것을 소화시켜 제것으로 활용하는 신입 개발자 입니다.
  
  E-mail : msh45660@gmail.com
- Github : [http](https://github.com/msh45660)
+ Github : [(https://github.com/msh45660](https://github.com/msh45660)
    
  </div>
  
