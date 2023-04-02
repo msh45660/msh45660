@@ -33,7 +33,7 @@ HTML5 / CSS3 / AJAX / Jsoup <br>
 
 - 차곡(chagok), 자산관리 커뮤니티<br>
 자산 관리 사이트 (팀 프로젝트) <br>
-개발 기간: 2022.12.12 ~ 2023.1.16 (진행중) <br>
+개발 기간: 2022.12.12 ~ 2023.1.16 <br>
 기술 스택: <br>
 Java 8 / Spring / Maven / MySQL / MyBatis <br>
 Javascript / HTML5 / CSS3 / AJAX / Jquery <br>
