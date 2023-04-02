@@ -25,14 +25,14 @@
 ****
 
 ### 포트폴리오
-- A.I.M <br>
+#### A.I.M <br>
 영화 예매 사이트 (팀 프로젝트) <br>
 개발 기간: 2022.10.27 ~ 2022.11.29 <br>
 [상세 페이지 이동](https://github.com/msh45660/Semi_Project_AIM/)
 
 ****
 
-- 차곡(chagok), 자산관리 커뮤니티<br>
+#### 차곡(chagok), 자산관리 커뮤니티<br>
 자산 관리 사이트 (팀 프로젝트) <br>
 개발 기간: 2022.12.12 ~ 2023.1.16 <br>
 [상세 페이지 이동](https://github.com/msh45660/Final_Project_Team2/)
