@@ -29,6 +29,8 @@
 Java 11 / JSP / MySQL / Javascript/ Jquery<br>
 HTML5 / CSS3 / AJAX / Jsoup<br>
 <br>
+- [상세 페이지 이동 (https://github.com/msh45660/Semi_Project_AIM)]
+
 - 차곡(chagok), 자산관리 커뮤니티<br>
  자산 관리 사이트 (팀 프로젝트) <br>
 개발 기간: 2022.12.12 ~ 2023.1.16 (진행중) <br>
