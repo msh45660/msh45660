@@ -21,13 +21,15 @@
  - 경성대학교 신소재공학과 졸업 (2013.03 ~ 2020.02)
 
 ### 포트폴리오
-- A.I.M 
-영화 예매 사이트 (팀 프로젝트)
-개발 기간: 2022.10.27 ~ 2022.11.29
-기술 스택
-Java 11 / JSP / MySQL / Javascript/ Jquery<br>
-HTML5 / CSS3 / AJAX / Jsoup
+- A.I.M <br>
+영화 예매 사이트 (팀 프로젝트) <br>
+개발 기간: 2022.10.27 ~ 2022.11.29 <br>
+기술 스택 <br>
+Java 11 / JSP / MySQL / Javascript/ Jquery <br>
+HTML5 / CSS3 / AJAX / Jsoup <br>
 [상세 페이지 이동](https://github.com/msh45660/Semi_Project_AIM/)
+
+****
 
 - 차곡(chagok), 자산관리 커뮤니티<br>
  자산 관리 사이트 (팀 프로젝트) <br>
