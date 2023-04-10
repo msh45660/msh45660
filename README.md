@@ -25,7 +25,7 @@
 ****
 
 ### 포트폴리오
-#### A.I.M <br>
+#### A.I.M (All In Movie), 영화 예매 사이트 <br>
 영화 예매 사이트 (팀 프로젝트) <br>
 개발 기간: 2022.10.27 ~ 2022.11.29 <br>
 [상세 페이지 이동](https://github.com/msh45660/Semi_Project_AIM/)
